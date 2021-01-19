@@ -26,11 +26,11 @@ Deploy the application online either using AWS or Heroku or Firebase. Push the c
 
 To develop the application, use any of the below-given stack:
 
-**1. Styling:** CSS / SCSS / Tailwind CSS / Material Design / Antd / Chakra UI
-**2. Frontend:** ReactJS ( Preferable NextJS )
-**3. Backend:** NodeJS ( ExpressJS )
-**4. Database:** Postgres / MongoDb / Firebase
-**5. Hosting:** AWS / Heroku / Firebase
+1. Styling: CSS / SCSS / Tailwind CSS / Material Design / Antd / Chakra UI
+2. Frontend: ReactJS ( Preferable NextJS )
+3. Backend: NodeJS ( ExpressJS )
+4. Database: Postgres / MongoDb / Firebase
+5. Hosting: AWS / Heroku / Firebase
 
 #### Fields:
 
