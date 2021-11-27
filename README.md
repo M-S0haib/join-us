@@ -57,3 +57,5 @@ Todo:
 7. Create a data model as you need. (foregin keys must be used in the data model if using Postgres)
 
 **The timeline to complete this app is a maximum of five days. Plagiarism is prohibited and if an applicant submits a plagiarised work then his application will be rejected.**
+
+**Submit it on hr@mtechzilla.com and we will get back.**
